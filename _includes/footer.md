@@ -1,1 +1,1 @@
--> Meixuan Shi | Contact me via [Email](meixuanshi@gmail.com) <-
+Meixuan Shi &#8226 [contact]<meixuanshi@gmail.com>
