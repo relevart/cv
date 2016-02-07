@@ -1,6 +1,6 @@
 ---
 title: "Experience"
-bg: ms_word
+bg: black
 color: white
 style: center
 ---
