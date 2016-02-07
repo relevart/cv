@@ -33,4 +33,8 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  ms_excel:     '#217346'
+  ms_publisher: '#077568'
+  ms_word:      '#2b579a'
+  ms_outlook:   '#0072c6'
   
